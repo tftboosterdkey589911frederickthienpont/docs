@@ -1,0 +1,20 @@
+Bump minimatch en mokka
+Bumps [minimatch]( https://github.com/isaacs/minimatch ) naar 5.0.1 en update voorouderafhankelijkheid [mocha]( https://github.com/mochajs/mocha ). Deze afhankelijkheden moeten samen worden bijgewerkt.
+
+
+Werkt `minimatch` bij van 0.2.14 naar 5.0.1
+- [Release-opmerkingen]( https://github.com/isaacs/minimatch/releases )
+- [Commits]( isaacs/minimatch@ v0.2.14...v5.0.1 )
+
+Updates `mocha` van 2.3.3 naar 10.1.0
+- [Release-opmerkingen]( https://github.com/mochajs/mocha/releases )
+- [Changelog]( https://github.com/mochajs/mocha/blob/master/CHANGELOG.md )
+- [Commits]( mochajs/mocha@ v2.3.3...v10.1.0 )
+
+---
+bijgewerkte afhankelijkheden:
+- afhankelijkheidsnaam: minimatch
+  afhankelijkheidstype: indirect
+- afhankelijkheidsnaam: mokka
+  afhankelijkheidstype: direct:ontwikkeling
+...
